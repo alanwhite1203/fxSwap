@@ -107,5 +107,9 @@ Settlement Date	11/1/2017
 
 
 
-Reference:
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/fxswap/downloads/FxSwap-23.pdf
+
